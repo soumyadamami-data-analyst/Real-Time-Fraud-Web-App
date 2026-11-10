@@ -1,7 +1,5 @@
 # Fraud Transaction Lookup
 
-CSIS 4260 – Emerging Technologies in Data Analytics
-
 A web app that gives an instant fraud assessment for a single transaction. Enter a transaction ID and the app scores it with three detection layers, then shows the verdict, a confidence gauge, and what each layer decided.
 
 **Live demo:** _add your Streamlit Cloud link here_
