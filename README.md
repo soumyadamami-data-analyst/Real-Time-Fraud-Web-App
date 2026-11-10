@@ -32,9 +32,7 @@ A transaction is flagged if **any** of the three layers fires:
 |---|---|
 | `streamlit_app.py` | The web app (UI, database lookup, scoring call) |
 | `fraud_scoring.py` | The 3-layer scoring logic |
-| `fraud_rf.joblib` | Trained Random Forest model |
 | `isolation_forest.joblib` | Trained Isolation Forest model |
-| `fraud_lookup.db` | SQLite database of transactions, indexed by transaction ID |
 | `requirements.txt` | Python dependencies |
 
 ## Run it locally
